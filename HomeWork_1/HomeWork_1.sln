@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfTheWeek", "DayOfTheWeek\DayOfTheWeek.csproj", "{CC9461EF-535D-4856-8305-213A2665AE02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{BD9C2600-FC3A-4750-AEF9-7239F32C13DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9461EF-535D-4856-8305-213A2665AE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9461EF-535D-4856-8305-213A2665AE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9461EF-535D-4856-8305-213A2665AE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9461EF-535D-4856-8305-213A2665AE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9C2600-FC3A-4750-AEF9-7239F32C13DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9C2600-FC3A-4750-AEF9-7239F32C13DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9C2600-FC3A-4750-AEF9-7239F32C13DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9C2600-FC3A-4750-AEF9-7239F32C13DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49EC83D0-C592-4278-907C-67BD6E33B655}
+	EndGlobalSection
+EndGlobal
